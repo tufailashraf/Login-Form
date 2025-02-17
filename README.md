@@ -7,4 +7,4 @@ A **fully responsive** Login Page built using **HTML and pure CSS**, designed wi
 #### ✔️ Smooth **hover and focus effects**  
 #### ✔️ No JavaScript—built entirely with **HTML & pure CSS**  
 
-### 🔗 <a href="https://raw.githack.com/tufailashraf/Login-Form/main/index.html" target="_blank">Live Preview</a>
+### 🔗 <a href="https://login-form-hazel-five.vercel.app/" target="_blank">Live Preview</a>
